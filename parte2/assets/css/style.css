@@ -1,0 +1,28 @@
+#fullScreen{
+    display: flex;
+    flex-direction: column;
+}
+#stickersTodos{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-content: center;
+}
+.sticker{
+    display: grid;
+}
+h1{
+    text-align: center;
+}
+button{
+    width: 100px;
+ 
+}
+img{
+    width: 150px;
+}
+#mnsButton{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
